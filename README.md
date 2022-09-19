@@ -1,7 +1,7 @@
 # StopWatch-ATMega32
 Implementing stop watch using atmega32(AVR), six 7-Segment, timer1, external interrupts and push buttons(pause, resume, reset).
 
-###Implementing the Stop Watch system with the specifications listed below:
+### Implementing the Stop Watch system with the specifications listed below:
 >1. Use ATmega32 Microcontroller with frequency 1Mhz.
 >2. Configure Timer1 in ATmega16 with CTC mode to count the Stop Watch time.
 >3. Use six Common Anode 7-segments.
